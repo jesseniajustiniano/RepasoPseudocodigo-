@@ -1,11 +1,7 @@
-//Analisis: determinar el mayor y menor de 3 edaes y validar si es mayor de 18 años o no 
-//Definicion del problema
-// Datos de entrada 
-//Informacion de salida
-//Variables: tipodedatos_nombre
-//diseño antes de pseudocodigo
-//encontrar los valores de las 3 edades y si es mayor o no es 
-//
+//Analisis: 
+// determinar el maor y menor de 3 edades
+// Datos de entrada: edad1, edad2, edad3 como entero 
+//Informacion de salida: "mayor:" edad1 y "menor:" edad1 como entero 
 Algoritmo mayorymenorde3edades
 	//ingresar las edades 
 	leer edad1
